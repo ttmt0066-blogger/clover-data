@@ -34,5 +34,23 @@
     "linkSP": "https://google.com",
     "info": "[Amigurumi] Jumpy Dumpty - Bom Nảy của Klee | Genshin Impact",
     "video": "https://www.youtube.com/embed/r30TmGV_3NM"
+  },
+  "test5": {
+    "alt": "test5",
+    "size": 10,
+    "priceF": "100.000đ",
+    "priceP": 2000000,
+    "linkSP": "https://google.com",
+    "info": "[Amigurumi] Jumpy Dumpty - Bom Nảy của Klee | Genshin Impact",
+    "video": "https://www.youtube.com/embed/r30TmGV_3NM"
+  },
+  "test6": {
+    "alt": "test6",
+    "size": 10,
+    "priceF": "100.000đ",
+    "priceP": 2000000,
+    "linkSP": "https://google.com",
+    "info": "test 5 [Amigurumi] Jumpy Dumpty - Bom Nảy của Klee | Genshin Impact",
+    "video": "https://www.youtube.com/embed/r30TmGV_3NM"
   }
 }
