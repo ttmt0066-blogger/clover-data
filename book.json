@@ -1,0 +1,38 @@
+{
+  "title_test_update": {
+    "alt": "test2",
+    "author": "Diệp Lạc Vô Tâm",
+    "publisher": "kd",
+    "pk": "xxx",
+    "priceF": 100000,
+    "priceP": 100000,
+    "linkSP": "https://google.com",
+    "info": "Test info 2",
+    "nd": "Vì tên khổng lồ kia mà xung quanh tan hoang hết cả! Hắn cứ luôn miệng nói “đến chỗ chủ nhân” – là Shigaraki sao…? Không được! Nếu hắn tiến vào thành phố thì người dân sẽ không chống đỡ nổi! Cả các học sinh trường Yuei cũng sẽ gặp nguy hiểm mất! Bên phía bệnh viện Jaku có vấn đề gì chăng!? Thôi được, mình sẽ ngăn hắn lạạạạại!! “Plus Ultra”!!",
+    "video": "https://www.youtube.com/embed/r30TmGV_3NM"
+  },
+  "dodoko chan": {
+    "alt": "test3",
+    "author": "Nguyễn Nhật Ánh",
+    "publisher": "ipm",
+    "pk": "yyy",
+    "priceF": 100000,
+    "priceP": 100000,
+    "linkSP": "https://google.com",
+    "info": "Test info 3",
+    "nd": "Vì tên khổng lồ kia mà xung quanh tan hoang hết cả! Hắn cứ luôn miệng nói “đến chỗ chủ nhân” – là Shigaraki sao…? Không được! Nếu hắn tiến vào thành phố thì người dân sẽ không chống đỡ nổi! Cả các học sinh trường Yuei cũng sẽ gặp nguy hiểm mất! Bên phía bệnh viện Jaku có vấn đề gì chăng!? Thôi được, mình sẽ ngăn hắn lạạạạại!! “Plus Ultra”!!",
+    "video": "https://www.youtube.com/embed/r30TmGV_3NM"
+  },
+  "dodoko chan1": {
+    "alt": "test4",
+    "author": "Nguyễn Nhật Ánh",
+    "publisher": "vhtt",
+    "pk": "zzz",
+    "priceF": 100000,
+    "priceP": 100000,
+    "linkSP": "https://google.com",
+    "info": "Test info 4",
+    "nd": "Vì tên khổng lồ kia mà xung quanh tan hoang hết cả! Hắn cứ luôn miệng nói “đến chỗ chủ nhân” – là Shigaraki sao…? Không được! Nếu hắn tiến vào thành phố thì người dân sẽ không chống đỡ nổi! Cả các học sinh trường Yuei cũng sẽ gặp nguy hiểm mất! Bên phía bệnh viện Jaku có vấn đề gì chăng!? Thôi được, mình sẽ ngăn hắn lạạạạại!! “Plus Ultra”!!",
+    "video": "https://www.youtube.com/embed/r30TmGV_3NM"
+  }
+}
