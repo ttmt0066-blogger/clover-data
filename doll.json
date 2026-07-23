@@ -2,8 +2,8 @@
   "test1": {
     "alt": "test1",
     "size": 14,
-    "priceF": 1000000,
-    "priceP": 2000000,
+    "priceF": 100000,
+    "priceP": 200000,
     "linkSP": "https://google.com",
     "info": "",
     "video": "https://www.youtube.com/embed/r30TmGV_3NM"
@@ -11,8 +11,8 @@
   "test2": {
     "alt": "test2",
     "size": 14,
-    "priceF": 1000000,
-    "priceP": 2000000,
+    "priceF": 100000,
+    "priceP": 200000,
     "linkSP": "https://google.com",
     "info": "",
     "video": "https://www.youtube.com/embed/r30TmGV_3NM"
@@ -20,8 +20,8 @@
   "test3": {
     "alt": "test3",
     "size": 10,
-    "priceF": "100.000đ",
-    "priceP": 2000000,
+    "priceF": 100000,
+    "priceP": 200000,
     "linkSP": "https://google.com",
     "info": "[Amigurumi] Jumpy Dumpty - Bom Nảy của Klee | Genshin Impact",
     "video": "https://www.youtube.com/embed/r30TmGV_3NM"
@@ -29,8 +29,8 @@
   "test4": {
     "alt": "test4",
     "size": 10,
-    "priceF": "100.000đ",
-    "priceP": 2000000,
+    "priceF": 100000,
+    "priceP": 200000,
     "linkSP": "https://google.com",
     "info": "[Amigurumi] Jumpy Dumpty - Bom Nảy của Klee | Genshin Impact",
     "video": "https://www.youtube.com/embed/r30TmGV_3NM"
@@ -38,17 +38,17 @@
   "test5": {
     "alt": "test5",
     "size": 10,
-    "priceF": "100.000đ",
-    "priceP": 2000000,
+    "priceF": 100000,
+    "priceP": 200000,
     "linkSP": "https://google.com",
     "info": "[Amigurumi] Jumpy Dumpty - Bom Nảy của Klee | Genshin Impact",
     "video": "https://www.youtube.com/embed/r30TmGV_3NM"
   },
-  "test6": {
+  "testd6": {
     "alt": "test6",
     "size": 10,
-    "priceF": "100.000đ",
-    "priceP": 2000000,
+    "priceF": 100000,
+    "priceP": 200000,
     "linkSP": "https://google.com",
     "info": "test 5 [Amigurumi] Jumpy Dumpty - Bom Nảy của Klee | Genshin Impact",
     "video": "https://www.youtube.com/embed/r30TmGV_3NM"
