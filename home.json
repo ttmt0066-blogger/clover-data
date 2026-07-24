@@ -1,86 +1,78 @@
-[
-  {
-    "category": "manga",
-    "title": "test1",
-    "image": "",
-    "link": ""
-  },
-  {
-    "category": "manga",
-    "title": 8,
-    "image": "https://i.ibb.co/G3RggC4j/Azur-Lane-Emanuele-Pessagno-3.jpg",
-    "link": "https://webdemo0001.blogspot.com/2026/07/testd8.html"
-  },
-  {
-    "category": "manga",
-    "title": "test5",
-    "image": "https://i.ibb.co/G3RggC4j/Azur-Lane-Emanuele-Pessagno-3.jpg",
-    "link": "https://webdemo0001.blogspot.com/2026/07/test5.html"
-  },
-  {
-    "category": "manga",
-    "title": "test2",
-    "image": "https://i.ibb.co/G3RggC4j/Azur-Lane-Emanuele-Pessagno-3.jpg",
-    "link": "https://webdemo0001.blogspot.com/2026/07/test-3.html"
-  },
-  {
-    "category": "doll",
-    "title": "test3",
-    "image": "https://i.ibb.co/G3RggC4j/Azur-Lane-Emanuele-Pessagno-3.jpg",
-    "link": "https://webdemo0001.blogspot.com/2026/07/test1.html"
-  },
-  {
-    "category": "doll",
-    "title": "test4",
-    "image": "https://i.ibb.co/G3RggC4j/Azur-Lane-Emanuele-Pessagno-3.jpg",
-    "link": "https://webdemo0001.blogspot.com/2026/07/test2.html"
-  },
-  {
-    "category": "doll",
-    "title": "test5",
-    "image": "https://i.ibb.co/G3RggC4j/Azur-Lane-Emanuele-Pessagno-3.jpg",
-    "link": "https://webdemo0001.blogspot.com/2026/07/test2.html"
-  },
-  {
-    "category": "doll",
-    "title": "test6",
-    "image": "https://i.ibb.co/G3RggC4j/Azur-Lane-Emanuele-Pessagno-3.jpg",
-    "link": "https://webdemo0001.blogspot.com/2026/07/test2.html"
-  },
-  {
-    "category": "doll",
-    "title": "test7",
-    "image": "https://i.ibb.co/G3RggC4j/Azur-Lane-Emanuele-Pessagno-3.jpg",
-    "link": "https://webdemo0001.blogspot.com/2026/07/test2.html"
-  },
-  {
-    "category": "doll",
-    "title": "test8",
-    "image": "https://i.ibb.co/G3RggC4j/Azur-Lane-Emanuele-Pessagno-3.jpg",
-    "link": "https://webdemo0001.blogspot.com/2026/07/test2.html"
-  },
-  {
-    "category": "doll",
-    "title": "test9",
-    "image": "https://i.ibb.co/G3RggC4j/Azur-Lane-Emanuele-Pessagno-3.jpg",
-    "link": "https://webdemo0001.blogspot.com/2026/07/test2.html"
-  },
-  {
-    "category": "book",
-    "title": "test10",
-    "image": "https://i.ibb.co/G3RggC4j/Azur-Lane-Emanuele-Pessagno-3.jpg",
-    "link": "https://webdemo0001.blogspot.com/2026/07/test2.html"
-  },
-  {
-    "category": "book",
-    "title": "test11",
-    "image": "https://i.ibb.co/G3RggC4j/Azur-Lane-Emanuele-Pessagno-3.jpg",
-    "link": "https://webdemo0001.blogspot.com/2026/07/test2.html"
-  },
-  {
-    "category": "book",
-    "title": "test12",
-    "image": "https://i.ibb.co/G3RggC4j/Azur-Lane-Emanuele-Pessagno-3.jpg",
-    "link": "https://webdemo0001.blogspot.com/2026/07/test2.html"
-  }
-]
+{
+  "manga": [
+    {
+      "title": "test1",
+      "image": "",
+      "link": ""
+    },
+    {
+      "title": 8,
+      "image": "https://i.ibb.co/G3RggC4j/Azur-Lane-Emanuele-Pessagno-3.jpg",
+      "link": "https://webdemo0001.blogspot.com/2026/07/testd8.html"
+    },
+    {
+      "title": "test5",
+      "image": "https://i.ibb.co/G3RggC4j/Azur-Lane-Emanuele-Pessagno-3.jpg",
+      "link": "https://webdemo0001.blogspot.com/2026/07/test5.html"
+    },
+    {
+      "title": "test2",
+      "image": "https://i.ibb.co/G3RggC4j/Azur-Lane-Emanuele-Pessagno-3.jpg",
+      "link": "https://webdemo0001.blogspot.com/2026/07/test-3.html"
+    }
+  ],
+  "doll": [
+    {
+      "title": "test3",
+      "image": "https://i.ibb.co/G3RggC4j/Azur-Lane-Emanuele-Pessagno-3.jpg",
+      "link": "https://webdemo0001.blogspot.com/2026/07/test1.html"
+    },
+    {
+      "title": "test4",
+      "image": "https://i.ibb.co/G3RggC4j/Azur-Lane-Emanuele-Pessagno-3.jpg",
+      "link": "https://webdemo0001.blogspot.com/2026/07/test2.html"
+    },
+    {
+      "title": "test5",
+      "image": "https://i.ibb.co/G3RggC4j/Azur-Lane-Emanuele-Pessagno-3.jpg",
+      "link": "https://webdemo0001.blogspot.com/2026/07/test2.html"
+    },
+    {
+      "title": "test6",
+      "image": "https://i.ibb.co/G3RggC4j/Azur-Lane-Emanuele-Pessagno-3.jpg",
+      "link": "https://webdemo0001.blogspot.com/2026/07/test2.html"
+    },
+    {
+      "title": "test7",
+      "image": "https://i.ibb.co/G3RggC4j/Azur-Lane-Emanuele-Pessagno-3.jpg",
+      "link": "https://webdemo0001.blogspot.com/2026/07/test2.html"
+    },
+    {
+      "title": "test8",
+      "image": "https://i.ibb.co/G3RggC4j/Azur-Lane-Emanuele-Pessagno-3.jpg",
+      "link": "https://webdemo0001.blogspot.com/2026/07/test2.html"
+    },
+    {
+      "title": "test9",
+      "image": "https://i.ibb.co/G3RggC4j/Azur-Lane-Emanuele-Pessagno-3.jpg",
+      "link": "https://webdemo0001.blogspot.com/2026/07/test2.html"
+    }
+  ],
+  "book": [
+    {
+      "title": "test10",
+      "image": "https://i.ibb.co/G3RggC4j/Azur-Lane-Emanuele-Pessagno-3.jpg",
+      "link": "https://webdemo0001.blogspot.com/2026/07/test2.html"
+    },
+    {
+      "title": "test11",
+      "image": "https://i.ibb.co/G3RggC4j/Azur-Lane-Emanuele-Pessagno-3.jpg",
+      "link": "https://webdemo0001.blogspot.com/2026/07/test2.html"
+    },
+    {
+      "title": "test12",
+      "image": "https://i.ibb.co/G3RggC4j/Azur-Lane-Emanuele-Pessagno-3.jpg",
+      "link": "https://webdemo0001.blogspot.com/2026/07/test2.html"
+    }
+  ]
+}
