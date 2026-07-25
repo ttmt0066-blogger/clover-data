@@ -1,78 +1,73 @@
 {
-  "manga": [
-    {
-      "title": "test1",
-      "image": "",
-      "link": ""
-    },
-    {
-      "title": 8,
-      "image": "https://i.ibb.co/G3RggC4j/Azur-Lane-Emanuele-Pessagno-3.jpg",
-      "link": "https://webdemo0001.blogspot.com/2026/07/testd8.html"
-    },
-    {
-      "title": "test5",
-      "image": "https://i.ibb.co/G3RggC4j/Azur-Lane-Emanuele-Pessagno-3.jpg",
-      "link": "https://webdemo0001.blogspot.com/2026/07/test5.html"
-    },
-    {
-      "title": "test2",
-      "image": "https://i.ibb.co/G3RggC4j/Azur-Lane-Emanuele-Pessagno-3.jpg",
-      "link": "https://webdemo0001.blogspot.com/2026/07/test-3.html"
-    }
-  ],
   "doll": [
     {
-      "title": "test3",
-      "image": "https://i.ibb.co/G3RggC4j/Azur-Lane-Emanuele-Pessagno-3.jpg",
-      "link": "https://webdemo0001.blogspot.com/2026/07/test1.html"
+      "title": "Amigurumi: Akagi | Azur Lane",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXVj_0xdRAHZhsMJcc0mtJcCn4VMV8sM8ulCPdASXBO1vwWa1SBKGAM3aGySaxL8sJf1n5tLfYFrmsVwoyHOqze-cnLdSOgj38Da2Vxs3N1Xit9QqYCFIYRzaOGlBbei7pD_FDBata-WoKwgobDKkDx4845KJt2wmBtpSOEAjBetDBeucc-_gASq_8QZc/s3056/doll-len-akagi-azur-lane.jpg",
+      "link": "https://webdemo0001.blogspot.com/2026/07/akagi-azur-lane"
     },
     {
-      "title": "test4",
-      "image": "https://i.ibb.co/G3RggC4j/Azur-Lane-Emanuele-Pessagno-3.jpg",
-      "link": "https://webdemo0001.blogspot.com/2026/07/test2.html"
+      "title": "Amigurumi: Emanuele Pessagno | Azur Lane",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifZ84wAn_6sLrsC9SNiMX_DYSStXvKYXge5_UJUUzIGSkEIQej0GyEK2KIInQ_NNZ9LZ7SnDHLXAsZrvKNU0WkMdJn3LzP20QNaDEUnliHt7OQYufSIQUm9Y9uAVjh0vsPrErES3DY5kveF2mEVDqNs2B7hGsv1h_VfTsJZuh9RSF2WhqSUm_fNtWHsoM/s3056/doll-len-emanuele-pessagno-azur-lane.jpg",
+      "link": "https://webdemo0001.blogspot.com/2026/07/emanuele-pessagno-azur-lane"
     },
     {
-      "title": "test5",
-      "image": "https://i.ibb.co/G3RggC4j/Azur-Lane-Emanuele-Pessagno-3.jpg",
-      "link": "https://webdemo0001.blogspot.com/2026/07/test2.html"
+      "title": "Amigurumi: Jumpy Dumpty - Bom Nảy của Klee | Genshin Impact",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQkapuJaVEbWjgh6AJJJOnd2uxNMVvGJQeOBGw63dCyr1hWDcSjlNLCca-tIGnz4y9zeV2FSWCkDa28V-EJhyphenhyphenx_1l3w6rTx1so_Lo_d0y-pykKzy3rm4zKS0wygxRUg8SjWhikm5fU4pIo2pet-b4CVo-iL5aLRhHsLxJ3NgZxXzGWE0ZGOkTn8A-tdd8/s3056/jumpy-dumpty-bom-nay-genshin-impact.jpg",
+      "link": "https://webdemo0001.blogspot.com/2026/07/jumpy-dumpty-bom-nay-cua-klee-genshin-impact"
     },
     {
-      "title": "test6",
-      "image": "https://i.ibb.co/G3RggC4j/Azur-Lane-Emanuele-Pessagno-3.jpg",
-      "link": "https://webdemo0001.blogspot.com/2026/07/test2.html"
+      "title": "Amigurumi: Avidius | Wuthering Waves",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgTkfcv5sdIsDQV8sfT4vt1R87KC_dIf06S5QmxLA0uBa9QIQtVN7acWs-DgfrqudfPRKFsJ-CkmaTJXlg6INJXbHOKV6_Ih-6jzs87ke79mzSt9HvKDuRKEAuBFcOOWvn11OFCtda0CTLBDZQk98u0w_DC5mbDesHF7484iyEulqzEzMotWyJMYunZzdA/s3056/doll-len-avidius-wuthering-waves.jpg",
+      "link": "https://webdemo0001.blogspot.com/2026/07/avidius-wuthering-waves"
     },
     {
-      "title": "test7",
-      "image": "https://i.ibb.co/G3RggC4j/Azur-Lane-Emanuele-Pessagno-3.jpg",
-      "link": "https://webdemo0001.blogspot.com/2026/07/test2.html"
+      "title": "Amigurumi: Cartethyia | Wuthering Waves",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhKxkjiPWjMIcQeiQ_mAkAKC5lKGz5u1r3bNdz4are7BnLtcCRZLNr-Y1nrEaJQohZ_3HzE6s183ggsyDLt4y9rjh15t0j_KLzvJbbi4MJdIlOHBEp2mA9kJM1yseyEuayo71913LSbaAcCSp4MDqBTrsgyimsxliFz2Wbf0_MPECtJ2mBi-m6wQRhR2HU/s3056/doll-len-cartethyia-wuthering-waves.jpg",
+      "link": "https://webdemo0001.blogspot.com/2026/07/cartethyia-wuthering-waves"
+    }
+  ],
+  "manga": [
+    {
+      "title": "My Hero Academia - Học Viện Siêu Anh Hùng Tập 29 Kèm Poster",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgDgf13bITb4hbPNVjdhkBru4IEjijYWzBk2igs4DpSB-fi3sVgL2fPdDUvccxhPw_4n4-w0Cd7zzLlBpRaCuWPDy0RVYH137TvGPPkxWtLmGF2JFquyb_c1M8WIZv1Xm8UuPTpxYepz54PDmSblpuJMmB9L_8_pzS4HaFpBdl3UwNSJR0jAxqYlyVguuA/s3056/hoc-vien-sieu-anh-hung-29-poster.jpg",
+      "link": "https://webdemo0001.blogspot.com/2026/07/my-hero-academia-hoc-vien-sieu-anh-hung-tap-29-kem-poster"
     },
     {
-      "title": "test8",
-      "image": "https://i.ibb.co/G3RggC4j/Azur-Lane-Emanuele-Pessagno-3.jpg",
-      "link": "https://webdemo0001.blogspot.com/2026/07/test2.html"
+      "title": "Combo Alice In Borderland",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjMx1CoBJ2J6VeX82_JlfSV4d2cUPvg26HRwSOBeQ75WdEvPRhcuuAb1rHryUmJkrN99EwCYfox-ZIK_j-wRRomyDQ7jDjakSaeCGGCpG_DxUT4beKKmnIVcU7JenyD6YI7D7KQ2lW1cAxP4HzUO1QFIGFodluaub0nv79p5AETC2NOhIa7kyXbdy7-TjQ/s3056/truyen-tranh-combo-alice-in-borderland.jpg",
+      "link": "https://webdemo0001.blogspot.com/2026/07/combo-alice-in-borderland"
     },
     {
-      "title": "test9",
-      "image": "https://i.ibb.co/G3RggC4j/Azur-Lane-Emanuele-Pessagno-3.jpg",
-      "link": "https://webdemo0001.blogspot.com/2026/07/test2.html"
+      "title": "Combo Bá Tước Tiểu Thư",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg1pOIUHYzXQnZy8pIce4UY3RPHjAw7zbAe16jD3nadnv2BaAemzyrWwVwFBLiG_rhSqBQQeqxw_PGMjo8EvVPsIDPwYCtRVCOV-fU-IMFCkgYSCGyDY3Nu6ln4UoHv3WV6qgxUsIHMBhLVIizV0zo_-TxU8IdsUR5UzTBTyC0hz1xemks-wQaqb3fn-hU/s3056/truyen-tranh-combo-ba-tuoc-tieu-thu.jpg",
+      "link": "https://webdemo0001.blogspot.com/2026/07/combo-ba-tuoc-tieu-thu"
+    },
+    {
+      "title": "Combo Black Cat",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhurzkJqVE_RqIfuZk0AMGKkUrHR5DZSY1TIEzzxezU6y9AB5OqVOA0KHwbEGvVgmmF7GTcDhZL0N9Q1pyj5d4hIVr5-gmpIf0XtjSKXtev3m6gVfciVw7kuNoVlvWjem3mal4nPlF5RobNxqo0mWouUSH8-HgdMpbvxwSnnDxzDPgBCZ6A0xTTECJaZqI/s2304/truyen-tranh-combo-black-cat.jpg",
+      "link": "https://webdemo0001.blogspot.com/2026/07/combo-black-cat"
     }
   ],
   "book": [
     {
-      "title": "test10",
-      "image": "https://i.ibb.co/G3RggC4j/Azur-Lane-Emanuele-Pessagno-3.jpg",
-      "link": "https://webdemo0001.blogspot.com/2026/07/test2.html"
+      "title": "Combo Du Long Tùy Nguyệt",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-jV9v_4IOC9iDCDe05O9AKbLNbdY6ukZVBx1FRMRJHKlpJSsYqODXdZ5CywRBxPyOs1hDvuUHZNz1n9SAeGkNR9MAvDl7Z3XldyC0kmEgGtrreK08RZgKiAb5lEFV27ZTKB-Mg4Pp0C1oNzRJ_nz5sqU52T9wK83HQx-ucMugBmFyAoIDGqrqKw4D3Uw/s3056/dam-my-du-long-tuy-nguyet-nhi-nha.jpg",
+      "link": "https://webdemo0001.blogspot.com/2026/07/combo-du-long-tuy-nguyet"
     },
     {
-      "title": "test11",
-      "image": "https://i.ibb.co/G3RggC4j/Azur-Lane-Emanuele-Pessagno-3.jpg",
-      "link": "https://webdemo0001.blogspot.com/2026/07/test2.html"
+      "title": "Combo 365 Nghề Hệ Liệt: Nhất Nghệ Tinh, Nhất Thân Vinh + Ngành Dịch Vụ",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh5xEE0dlOLTItUS2p8DPNdhTSxa6Kpzk9syXEbpsbKDJfZmPH0uZ2fg5xi3rqmeeDmFAiqix1udFnyTlT-FY-dlTnSbcjtNgTKHddyuHl1Dx5zlqNLbYM98JPB08cdFZO0lbx3KjjMrGfQO15jeKzMPGYLuumOqTRcoGqkdn45YXv9i7mmjvT2VzoWrOM/s1536/dam-my-combo-365-nghe-he-liet.jpg",
+      "link": "https://webdemo0001.blogspot.com/2026/07/combo-365-nghe-he-liet-nhat-nghe-tinh-nhat-than-vinh-nganh-dich-vu"
     },
     {
-      "title": "test12",
-      "image": "https://i.ibb.co/G3RggC4j/Azur-Lane-Emanuele-Pessagno-3.jpg",
-      "link": "https://webdemo0001.blogspot.com/2026/07/test2.html"
+      "title": "Trứng Như Ý (Bản Đặc Biệt)",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiKyTX0TmVwktOuun-YBSn42rI27wex1zYfkdLa7x5R2Oo5G8CBMHQyrtyV4T2m7FaOFM8V-hQwSQaYuHWOYVOzO2z7PSMCTzgm0tWBAhzDEqJ9BvZ2vURV7zLAm8pk2mZwNUpdjY_dXRyhVJ-RK0QDfTwFZe5iWIjd_HZbMPe00-mHwrNvi9pgNIualJE/s2322/dam-my-trung-nhu-y-dac-biet.jpg",
+      "link": "https://webdemo0001.blogspot.com/2026/07/trung-nhu-y-ban-dac-biet"
+    },
+    {
+      "title": "Mạch Thượng Hoa Khai",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhYE_pf44QRaC2UI2v9Ck_sut7ZDv-Qp00oQBN5ER_JcKuyuxs1UAhewSBFj8H7yUO93C8qPtAltuVKhuLIGLgUqTlVosN6frjvMas3EDlHeCvaheRSQa5_mmBl0wXF7srr0rHFewCaTJhNqyxMVVHxfQspidzmReaGJ4Ih4ppOy37KbxvPlon_NcZCcbs/s3056/dam-my-mach-thuong-hoa-khai.jpg",
+      "link": "https://webdemo0001.blogspot.com/2026/07/mach-thuong-hoa-khai"
     }
   ]
 }
