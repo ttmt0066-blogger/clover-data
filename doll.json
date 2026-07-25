@@ -1,56 +1,47 @@
 {
-  "test1": {
-    "alt": "test1",
+  "akagi-azur-lane": {
+    "alt": "mô hình búp bê len handmade nhân vật akagi azur lane",
+    "info": "Móc khóa len Akagi | Azur Lane handmade",
     "size": 14,
-    "priceF": 100000,
-    "priceP": 200000,
-    "linkSP": "https://google.com",
-    "info": "",
-    "video": "https://www.youtube.com/embed/r30TmGV_3NM"
+    "fb_price": 380000,
+    "sp_price": 560000,
+    "sp_link": "https://shopee.vn/product/577527238/27983394037/",
+    "video": "https://www.youtube.com/embed/uyoiZ3OuAlg"
   },
-  "test2": {
-    "alt": "test2",
+  "emanuele-pessagno-azur-lane": {
+    "alt": "mô hình búp bê len handmade nhân vật emanuele pessagno azur lane",
+    "info": "Móc khóa len Emanuele Pessagno | Azur Lane handmade",
     "size": 14,
-    "priceF": 100000,
-    "priceP": 200000,
-    "linkSP": "https://google.com",
-    "info": "",
-    "video": "https://www.youtube.com/embed/r30TmGV_3NM"
+    "fb_price": 350000,
+    "sp_price": 520000,
+    "sp_link": "https://shopee.vn/product/577527238/27983394037/",
+    "video": "https://www.youtube.com/embed/a8HgayCtfUw"
   },
-  "test3": {
-    "alt": "test3",
+  "jumpy-dumpty-bom-nay-cua-klee-genshin-impact": {
+    "alt": "mô hình búp bê len handmade nhân vật jumpy dumpty bom nảy của klee genshin impact",
+    "info": "Móc khóa len Jumpy Dumpty - Bom Nảy của Klee | Genshin Impact handmade",
     "size": 10,
-    "priceF": 100000,
-    "priceP": 200000,
-    "linkSP": "https://google.com",
-    "info": "[Amigurumi] Jumpy Dumpty - Bom Nảy của Klee | Genshin Impact",
-    "video": "https://www.youtube.com/embed/r30TmGV_3NM"
+    "fb_price": 170000,
+    "sp_price": 260000,
+    "sp_link": "https://shopee.vn/product/577527238/28018300632/",
+    "video": "https://www.youtube.com/embed/sQBaxUvuK0E"
   },
-  "test4": {
-    "alt": "test4",
-    "size": 10,
-    "priceF": 100000,
-    "priceP": 200000,
-    "linkSP": "https://google.com",
-    "info": "[Amigurumi] Jumpy Dumpty - Bom Nảy của Klee | Genshin Impact",
-    "video": "https://www.youtube.com/embed/r30TmGV_3NM"
+  "avidius-wuthering-waves": {
+    "alt": "mô hình búp bê len handmade nhân vật avidius wuthering waves",
+    "info": "Móc khóa len Avidius | Wuthering Waves handmade",
+    "size": 14,
+    "fb_price": 350000,
+    "sp_price": 520000,
+    "sp_link": "https://shopee.vn/product/577527238/42152806433/",
+    "video": "https://www.youtube.com/embed/o2AQefsXms8"
   },
-  "test5": {
-    "alt": "test5",
-    "size": 10,
-    "priceF": 100000,
-    "priceP": 200000,
-    "linkSP": "https://google.com",
-    "info": "[Amigurumi] Jumpy Dumpty - Bom Nảy của Klee | Genshin Impact",
-    "video": "https://www.youtube.com/embed/r30TmGV_3NM"
-  },
-  "testd6": {
-    "alt": "test6",
-    "size": 10,
-    "priceF": 100000,
-    "priceP": 200000,
-    "linkSP": "https://google.com",
-    "info": "test 5 [Amigurumi] Jumpy Dumpty - Bom Nảy của Klee | Genshin Impact",
-    "video": "https://www.youtube.com/embed/r30TmGV_3NM"
+  "cartethyia-wuthering-waves": {
+    "alt": "mô hình búp bê len handmade nhân vật cartethyia wuthering waves",
+    "info": "Móc khóa len Cartethyia | Wuthering Waves handmade",
+    "size": 14,
+    "fb_price": 350000,
+    "sp_price": 520000,
+    "sp_link": "https://shopee.vn/product/577527238/42152806433/",
+    "video": "https://www.youtube.com/embed/-WT8jP2VWM8"
   }
 }
