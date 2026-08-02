@@ -4,41 +4,36 @@
       {
         "name": "tập 1",
         "fb_price": 90000,
-        "fb_quantity": 1,
+        "quantity": 1,
         "sp_price": 138000,
-        "sp_quantity": 1,
         "sp_link": "https://shopee.vn/product/577527238/46954906098/"
       },
       {
         "name": "tập 2",
         "fb_price": 90000,
-        "fb_quantity": 0,
+        "quantity": 0,
         "sp_price": 500000,
-        "sp_quantity": 0,
         "sp_link": "https://shopee.vn/product/577527238/46954906098/test1"
       },
       {
         "name": "tập 3",
         "fb_price": 90000,
-        "fb_quantity": 1,
+        "quantity": 1,
         "sp_price": "Không hỗ trợ",
-        "sp_quantity": 0,
         "sp_link": "https://shopee.vn/product/577527238/46954906098/test2"
       },
       {
         "name": "tập 4",
         "fb_price": 90000,
-        "fb_quantity": 1,
+        "quantity": 1,
         "sp_price": "Không hỗ trợ",
-        "sp_quantity": 1,
         "sp_link": "https://shopee.vn/product/577527238/46954906098/test2"
       },
       {
         "name": "tập 5",
         "fb_price": 90000,
-        "fb_quantity": 1,
+        "quantity": 1,
         "sp_price": 12000,
-        "sp_quantity": 1,
         "sp_link": "https://shopee.vn/product/577527238/46954906098/test2"
       }
     ],
@@ -50,9 +45,8 @@
       {
         "name": "default",
         "fb_price": 720000,
-        "fb_quantity": 1,
+        "quantity": 1,
         "sp_price": "Không hỗ trợ",
-        "sp_quantity": 0,
         "sp_link": "https://shopee.vn/product/577527238/46954906098/"
       }
     ],
@@ -64,9 +58,8 @@
       {
         "name": "default",
         "fb_price": 650000,
-        "fb_quantity": 1,
+        "quantity": 1,
         "sp_price": "Không hỗ trợ",
-        "sp_quantity": 0,
         "sp_link": "https://shopee.vn/product/577527238/46954906098/"
       }
     ],
@@ -78,9 +71,8 @@
       {
         "name": "default",
         "fb_price": 500000,
-        "fb_quantity": 1,
+        "quantity": 1,
         "sp_price": "Không hỗ trợ",
-        "sp_quantity": 0,
         "sp_link": "https://shopee.vn/product/577527238/46954906098/"
       }
     ],
@@ -92,9 +84,8 @@
       {
         "name": "default",
         "fb_price": 490000,
-        "fb_quantity": 1,
+        "quantity": 1,
         "sp_price": 709000,
-        "sp_quantity": 1,
         "sp_link": "https://shopee.vn/product/577527238/46954906098/"
       }
     ],
@@ -106,9 +97,8 @@
       {
         "name": "default",
         "fb_price": 240000,
-        "fb_quantity": 1,
+        "quantity": 1,
         "sp_price": 352000,
-        "sp_quantity": 1,
         "sp_link": "https://shopee.vn/product/577527238/46954906098/"
       }
     ],
@@ -120,9 +110,8 @@
       {
         "name": "default",
         "fb_price": 120000,
-        "fb_quantity": 1,
+        "quantity": 1,
         "sp_price": 180000,
-        "sp_quantity": 1,
         "sp_link": "https://shopee.vn/product/577527238/46954906098/"
       }
     ],
@@ -134,9 +123,8 @@
       {
         "name": "default",
         "fb_price": 75000,
-        "fb_quantity": 1,
+        "quantity": 1,
         "sp_price": 116000,
-        "sp_quantity": 1,
         "sp_link": "https://shopee.vn/product/577527238/46954906098/"
       }
     ],
