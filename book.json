@@ -12,13 +12,29 @@
       {
         "name": "tập 2",
         "fb_price": 90000,
-        "fb_quantity": 1,
+        "fb_quantity": 0,
         "sp_price": 500000,
-        "sp_quantity": 1,
+        "sp_quantity": 0,
         "sp_link": "https://shopee.vn/product/577527238/46954906098/test1"
       },
       {
         "name": "tập 3",
+        "fb_price": 90000,
+        "fb_quantity": 1,
+        "sp_price": "Không hỗ trợ",
+        "sp_quantity": 0,
+        "sp_link": "https://shopee.vn/product/577527238/46954906098/test2"
+      },
+      {
+        "name": "tập 4",
+        "fb_price": 90000,
+        "fb_quantity": 1,
+        "sp_price": "Không hỗ trợ",
+        "sp_quantity": 1,
+        "sp_link": "https://shopee.vn/product/577527238/46954906098/test2"
+      },
+      {
+        "name": "tập 5",
         "fb_price": 90000,
         "fb_quantity": 1,
         "sp_price": 12000,
