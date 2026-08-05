@@ -1,1 +1,77 @@
-
+/* CSS cho slider động */
+.clover-banner-full{
+    width:100%;
+    overflow:hidden;
+}
+.clover-slider{
+    position: relative;
+    width: 100%;
+    aspect-ratio: 1792 / 540; 
+    overflow: hidden;
+}
+.clover-slides{
+    position:relative;
+    width:100%;
+    height:100%;
+}
+.clover-slide{
+    position:absolute;
+    inset:0;
+    opacity:0;
+    transition:opacity .8s ease;
+    pointer-events:none;
+}
+.clover-slide.active{
+    opacity:1;
+    pointer-events:auto;
+}
+.clover-slide img{
+    width: 100%;
+    height: 100%;
+    object-fit: fill; 
+    display: block;
+}
+.slider-btn{
+    position:absolute;
+    top:50%;
+    transform:translateY(-50%);
+    width:42px;
+    height:42px;
+    border:none;
+    border-radius:50%;
+    background:rgba(0,0,0,.45);
+    color:#fff;
+    cursor:pointer;
+    z-index:9;
+    font-size:20px;
+    transition:.3s;
+}
+.slider-btn:hover{
+    background:rgba(0,0,0,.75);
+}
+.slider-btn.prev{
+    left:15px;
+}
+.slider-btn.next{
+    right:15px;
+}
+.slider-dots{
+    position:absolute;
+    bottom:18px;
+    left:50%;
+    transform:translateX(-50%);
+    display:flex;
+    gap:10px;
+    z-index:9;
+}
+.slider-dot{
+    width:11px;
+    height:11px;
+    border-radius:50%;
+    background:rgba(255,255,255,.45);
+    cursor:pointer;
+    transition:.3s;
+}
+.slider-dot.active{
+    background:#fff;
+}
