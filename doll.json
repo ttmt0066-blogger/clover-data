@@ -1,11 +1,19 @@
 {
   "doll-len-lien-quan-mobile-billow-thien-tuong-do-ach": {
-    "alt": "",
-    "info": "",
-    "size": "",
-    "fb_price": 180000,
-    "sp_price": 280000,
-    "sp_link": "https://shopee.vn/product/577527238/26211243545/",
+    "options": [
+      {
+        "name": "Full body (14cm)",
+        "fb_price": 350000,
+        "sp_price": 520000,
+        "sp_link": "https://shopee.vn/product/577527238/26211243545/"
+      },
+      {
+        "name": "Phần đầu (6cm)",
+        "fb_price": 180000,
+        "sp_price": 280000,
+        "sp_link": "https://shopee.vn/product/577527238/26211243545/"
+      }
+    ],
     "video": "",
     "type": ""
   }
